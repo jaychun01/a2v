@@ -1,3 +1,4 @@
 aster2vantage-1.0-1.x86_64.rpm filter=lfs diff=lfs merge=lfs -text
 aster2vantage-depends-1.0-1.x86_64.rpm filter=lfs diff=lfs merge=lfs -text
 *.rpm filter=lfs diff=lfs merge=lfs -text
+microsoft-edge-stable-107.0.1418.28-1.x86_64.rpm filter=lfs diff=lfs merge=lfs -text
